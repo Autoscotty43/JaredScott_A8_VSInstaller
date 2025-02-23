@@ -1,0 +1,30 @@
+﻿<Window x:Class="FaceGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Face Generator" Height="600" Width="800">
+    <Grid>
+        <Canvas Name="FaceCanvas" Width="400" Height="500" Background="LightGray" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,10,0,0"/>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,10">
+            <StackPanel>
+                <Button Name="HairButton" Content="Hair" Width="80" Margin="5" Click="HairButton_Click"/>
+                <TextBlock Name="HairLabel" Text="Hair: None" HorizontalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel>
+                <Button Name="EyesButton" Content="Eyes" Width="80" Margin="5" Click="EyesButton_Click"/>
+                <TextBlock Name="EyesLabel" Text="Eyes: None" HorizontalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel>
+                <Button Name="NoseButton" Content="Nose" Width="80" Margin="5" Click="NoseButton_Click"/>
+                <TextBlock Name="NoseLabel" Text="Nose: None" HorizontalAlignment="Center"/>
+            </StackPanel>
+            <StackPanel>
+                <Button Name="MouthButton" Content="Mouth" Width="80" Margin="5" Click="MouthButton_Click"/>
+                <TextBlock Name="MouthLabel" Text="Mouth: None" HorizontalAlignment="Center"/>
+            </StackPanel>
+            <Button Name="ResetButton" Content="Reset" Width="80" Margin="5" Click="ResetButton_Click"/>
+            <Button Name="InfoButton" Content="Info" Width="80" Margin="5" Click="InfoButton_Click"/>
+            <Button Name="HelpButton" Content="Help" Width="80" Margin="5" Click="HelpButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

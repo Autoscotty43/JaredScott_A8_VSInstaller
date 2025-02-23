@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27F0A93F-D0A3-4C12-A811-26C6AA6E5F64}|JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj|c:\\users\\jared\\onedrive\\desktop\\nscc\\jaredscott_a8_vsinstaller\\jaredscott_a8_vsinstaller\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F0A93F-D0A3-4C12-A811-26C6AA6E5F64}|JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj|solutionrelative:jaredscott_a8_vsinstaller\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F0A93F-D0A3-4C12-A811-26C6AA6E5F64}|JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj|c:\\users\\jared\\onedrive\\desktop\\nscc\\jaredscott_a8_vsinstaller\\jaredscott_a8_vsinstaller\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{27F0A93F-D0A3-4C12-A811-26C6AA6E5F64}|JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj|solutionrelative:jaredscott_a8_vsinstaller\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F0A93F-D0A3-4C12-A811-26C6AA6E5F64}|JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj|c:\\users\\jared\\onedrive\\desktop\\nscc\\jaredscott_a8_vsinstaller\\jaredscott_a8_vsinstaller\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F0A93F-D0A3-4C12-A811-26C6AA6E5F64}|JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj|solutionrelative:jaredscott_a8_vsinstaller\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F0A93F-D0A3-4C12-A811-26C6AA6E5F64}|JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj|c:\\users\\jared\\onedrive\\desktop\\nscc\\jaredscott_a8_vsinstaller\\jaredscott_a8_vsinstaller\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{27F0A93F-D0A3-4C12-A811-26C6AA6E5F64}|JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj|solutionrelative:jaredscott_a8_vsinstaller\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F0A93F-D0A3-4C12-A811-26C6AA6E5F64}|JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj|c:\\users\\jared\\onedrive\\desktop\\nscc\\jaredscott_a8_vsinstaller\\jaredscott_a8_vsinstaller\\jaredscott_a8_vsinstaller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27F0A93F-D0A3-4C12-A811-26C6AA6E5F64}|JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj|solutionrelative:jaredscott_a8_vsinstaller\\jaredscott_a8_vsinstaller.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "JaredScott_A8_VSInstaller\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller\\AssemblyInfo.cs",
+              "RelativeToolTip": "JaredScott_A8_VSInstaller\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T15:09:16.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller\\App.xaml",
+              "RelativeDocumentMoniker": "JaredScott_A8_VSInstaller\\App.xaml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller\\App.xaml",
+              "RelativeToolTip": "JaredScott_A8_VSInstaller\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-22T15:05:01.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JaredScott_A8_VSInstaller.csproj.user",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj.user",
+              "RelativeDocumentMoniker": "JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj.user",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj.user",
+              "RelativeToolTip": "JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-02-19T15:46:06.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JaredScott_A8_VSInstaller.csproj",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj",
+              "RelativeDocumentMoniker": "JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj",
+              "RelativeToolTip": "JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T15:18:47.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "JaredScott_A8_VSInstaller\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller\\MainWindow.xaml",
+              "RelativeToolTip": "JaredScott_A8_VSInstaller\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T13:48:48.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "JaredScott_A8_VSInstaller\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\jared\\OneDrive\\Desktop\\NSCC\\JaredScott_A8_VSInstaller\\JaredScott_A8_VSInstaller\\MainWindow.xaml.cs",
+              "RelativeToolTip": "JaredScott_A8_VSInstaller\\MainWindow.xaml.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAUwL0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T13:48:48.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
